@@ -1,0 +1,14 @@
+@font-face{
+    font-family:Abel;
+    src:url('../fonts/Abel/Abel-Regular.ttf')
+}
+
+@font-face{
+    font-family:Noto_Sans;
+    src:url('../fonts/Noto_Sans/Notosans-Regular.ttf')
+}
+
+@font-face{
+    font-family:Open_Sans;
+    src:url('../fonts/Open_Sans/Opensans-Regular.ttf')
+}
